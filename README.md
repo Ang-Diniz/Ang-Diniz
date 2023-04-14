@@ -5,7 +5,7 @@
 - 💻 Meu foco é me tornar um desenvolvedor Full-Stack
 
 ##
-💡Estas são algumas tecnologias que tenho conhecimento:
+💡Estas são algumas tecnologias que estou estudando:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
