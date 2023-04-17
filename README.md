@@ -1,10 +1,15 @@
 # 👋 **Olá, me chamo André Gabriel**
 
+
+<img align="right" alt="Felipe-pic" height="300" width="300" style="border-radius:50px;" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+
+
 - 📚 Estou me graduando em Análise e Desenvolvimento de Sistemas
 - 👨‍💻 Atualmente estou trabalhando como estágiario de desenvolvimento
 - 💻 Meu foco é me tornar um desenvolvedor Full-Stack
 
 ##
+
 💡Estas são algumas tecnologias que estou estudando:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -15,6 +20,7 @@
 
 ##
 
+📩 Conecte-se comigo !!
 <div> 
   <a href="mailto:andregs.diniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/andreegabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
