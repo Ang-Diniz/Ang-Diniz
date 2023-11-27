@@ -5,7 +5,7 @@
 
 
 - 📚 Estou me graduando em Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Atualmente estou trabalhando como estágiario de desenvolvimento
+- 👨‍💻 Atualmente estou trabalhando como tecnico de desenvolvimento
 - 💻 Meu foco é me tornar um desenvolvedor Full-Stack
 
 ##
